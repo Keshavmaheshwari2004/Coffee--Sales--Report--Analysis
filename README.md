@@ -41,14 +41,14 @@ Key Queries:
 6. **Transactions per Card** — total number of purchases per customer
 
 --
-### 📊 Dashboard Highlights
+Dashboard Highlights (Short):
 
-* ☕ **Top Product:** Americano with Milk (22.93%)
-* 📅 **Best Day:** Thursday ($1,814.7)
-* 🗓️ **Top Month:** May ($9,063)
-* 💳 **Preferred Payment Type:** Card (especially in May)
-* 💰 **Total Sales:** $37,509
-* 🧾 **Total Transactions:** 1,133
+💰 Total Revenue: ₹37.5K from 1.1K orders, with an Average Order Value of ₹33.11
+📈 Best Month: May recorded the highest sales at ₹9.1K
+☕ Top Product: Latte leads sales (27.86%), followed by Americano with Milk (26.60%)
+🛍️ Product Performance: Latte and Americano with Milk generate the highest revenue
+💳 Payment Trend: Card payments dominate across all months compared to cash
+📉 Recent Trend: Slight decline in sales from May to July
 
 ### 📈 Key Insights
 
