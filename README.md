@@ -43,12 +43,12 @@ Key Queries:
 --
 Dashboard Highlights (Short):
 
-💰 Total Revenue: ₹37.5K from 1.1K orders, with an Average Order Value of ₹33.11
-📈 Best Month: May recorded the highest sales at ₹9.1K
-☕ Top Product: Latte leads sales (27.86%), followed by Americano with Milk (26.60%)
-🛍️ Product Performance: Latte and Americano with Milk generate the highest revenue
-💳 Payment Trend: Card payments dominate across all months compared to cash
-📉 Recent Trend: Slight decline in sales from May to July
+# Total Revenue : ₹37.5K from  1.1K orders,  with an Average Order Value of ₹33.11
+# Best Month: May recorded the highest sales at ₹9.1K
+# Top Product: Latte leads sales (27.86%), followed by Americano with Milk (26.60%)
+# Product Performance: Latte and Americano with Milk generate the highest revenue
+# Payment Trend: Card payments dominate across all months compared to cash
+# Recent Trend: Slight decline in sales from May to July
 
 ### 📈 Key Insights
 
